@@ -66,8 +66,4 @@ The analysis is modularized into six SQL scripts that compute business measures,
 
 ---
 
-## Next steps / improvements
-- Add index recommendations for large tables to improve view performance.
-- Export key outputs to CSV and build a Power BI / Tableau dashboard using those CSVs.
-- Add automated data-refresh scripts (ETL) and schedule reports for daily/weekly refresh.
 
